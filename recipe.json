@@ -9,7 +9,7 @@
         ["directory"],
         ["merge"],
         {
-            "merge": ["https://gitlab.com/lenny09918050/cliressources-template"]
+            "merge": ["https://github.com/JhonnyJason/packageressources-template"]
         }
     ],
     "source": [
@@ -17,7 +17,7 @@
         ["merge", "create"],
         {
             "create": ["void"],
-            "merge": ["https://gitlab.com/lenny09918050/clisource-template"]
+            "merge": ["https://github.com/JhonnyJason/packagesource-template"]
         }
     ]
 }

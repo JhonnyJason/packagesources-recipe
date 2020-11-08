@@ -11,4 +11,4 @@ package.bin = {}
 package.bin[name] = "./index.js"
 packageString = JSON.stringify(package, null, 2)
 fs.writeFileSync(packagePath, packageString)
-console.log("individualized clisources!") 
+console.log("individualized packagesources!") 
